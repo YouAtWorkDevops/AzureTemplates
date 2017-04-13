@@ -1,6 +1,7 @@
 azuredeploy.parameters.local.json
 azuredeploy.parameters.json
 /build/
+.suo
 *.suo
 *.user
 _ReSharper.*/
